@@ -1,0 +1,23 @@
+.body
+{
+    background-image:url(oooo.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn
+{
+    background-color: rgb(219, 97, 122);
+    padding: 20px;
+    margin-left: 550px;
+    margin-top: 150px;
+    color: rgb(27, 23, 23);
+    font-size: x-large;
+    border-radius: 30px;
+
+}
+
+.sp
+{
+    padding-left: 550px;
+    padding-top: 250px;
+}
